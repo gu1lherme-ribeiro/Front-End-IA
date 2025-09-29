@@ -6,6 +6,6 @@ function mudarCor(cor) {
     circulo.style.backgroundColor = cor
 }
 
-function trocaImagem (imagem){
-    imagemCopo.src = "img/img2.png"
+function trocaImagem(imagem) {
+    imagemCopo.src = imagem
 }
